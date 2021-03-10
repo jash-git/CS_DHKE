@@ -1,0 +1,6 @@
+C:\Users\jashliao\Desktop\CS_DHKE\CS_DHKE\bin\Debug\CS_DHKE.exe.config
+C:\Users\jashliao\Desktop\CS_DHKE\CS_DHKE\obj\Debug\CS_DHKE.csprojResolveAssemblyReference.cache
+C:\Users\jashliao\Desktop\CS_DHKE\CS_DHKE\bin\Debug\CS_DHKE.exe
+C:\Users\jashliao\Desktop\CS_DHKE\CS_DHKE\bin\Debug\CS_DHKE.pdb
+C:\Users\jashliao\Desktop\CS_DHKE\CS_DHKE\obj\Debug\CS_DHKE.exe
+C:\Users\jashliao\Desktop\CS_DHKE\CS_DHKE\obj\Debug\CS_DHKE.pdb
